@@ -1,0 +1,17 @@
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.deps.json
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.runtimeconfig.json
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.dll
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.pdb
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.AssemblyReference.cache
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfo.cs
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CopyComplete
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.dll
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\refint\CleanArchitecture.Data.dll
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.pdb
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.genruntimeconfig.cache
+D:\TrabajosFramworks - Dev\.Net\CleanArquitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Data.dll
